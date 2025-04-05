@@ -1,0 +1,16 @@
+DB_HOST=localhost
+DB_NAME=pvfksmtg_cafeteria
+DB_USER=pvfksmtg_meikan
+DB_PASS=+Can8i(F9H8Fy0
+
+MPESA_CONSUMER_KEY=oKugQHIW92SEZoOXjCIiYEViOnL2Ut7glnIMbOktwpAAb4fY
+MPESA_CONSUMER_SECRET=dOVBKQgxD4rpdoMKTXxa5oedsuAAgag60VCN7LhMQ8e7ROx1AUeGy8e07SfpxyVG
+MPESA_SHORTCODE=174379
+MPESA_PASSKEY=bfb279f9aa9bdbcf158e97dd71a467cd2e0c893059b10f78e6b72ada1ed2c919
+MPESA_CALLBACK_URL=https://muranpeakventures.co.ke/mpesa_callback.php
+MPESA_STK_PUSH_URL=https://sandbox.safaricom.co.ke/mpesa/stkpush/v1/processrequest
+
+# Admin Default Credentials
+ADMIN_USERNAME=admin
+ADMIN_PASSWORD=admin123
+
